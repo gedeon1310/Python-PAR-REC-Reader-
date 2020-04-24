@@ -22,5 +22,5 @@ Each class instance contains:
   - REC data:
     - reshaped REC data based on reconstruction parameters. 
 ### Comments:
- This code has been written in order to be as flexible as possible. However, due to initial PAR file structure, some adjustements my be required regarding sequences or updates (e.g. adjusting PAR file text lines indexes in the code to extract relevant sections). Comments in the code are dedicated to help.
+ This code has been written in order to be as flexible as possible. However, due to initial PAR file structure, some adjustements myight be required regarding sequences or updates (e.g. adjusting PAR file text lines indexes in the code to extract relevant sections). Comments in the code are dedicated to help.
 
